@@ -117,7 +117,7 @@ export function FinalCta() {
         <Eyebrow live className="reveal">
           Next batch
         </Eyebrow>
-        <h2 id="final-title" className="reveal max-w-3xl text-h1 font-normal" style={d(60)}>
+        <h2 id="final-title" className="reveal max-w-3xl text-h2 font-normal" style={d(60)}>
           Future-proof your career <Hl as="marker">with AI.</Hl>
         </h2>
         <p className="reveal max-w-2xl text-lead text-slate" style={d(120)}>
