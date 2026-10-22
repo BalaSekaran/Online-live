@@ -1,0 +1,9 @@
+node_modules
+.next
+out
+.env*
+!.env.example
+.claude/
+preview/dist
+*.tsbuildinfo
+next-env.d.ts
